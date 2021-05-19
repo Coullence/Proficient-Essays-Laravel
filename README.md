@@ -1,1 +1,1 @@
-# Proficient-Essays-Laravel--Wordpress-
+# Proficient-Essays-Laravel
