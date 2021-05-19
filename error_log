@@ -1,0 +1,42 @@
+[26-Jun-2020 11:57:45 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 11:57:51 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 11:57:53 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 11:57:55 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 11:57:57 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 11:57:59 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
+[26-Jun-2020 12:00:00 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\biscript\Laravel\Dashboard\storage\framework\views/93b5ea95da32b50528d3927857ce104059c8aa16.php): failed to open stream: No such file or directory in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:133
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/proficie/...', 133, Array)
+#1 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(133): file_put_contents('C:\\biscript\\Lar...', '<?php $__env->s...', 0)
+#2 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('C:\\biscript\\Lar...', '<?php $__env->s...')
+#3 /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\Bl in /home/proficie/dashboard.proficientessays.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 133
